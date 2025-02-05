@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="flex items-center space-x-4 ml-4">
         
         <img
-          src="src/assets/blog.png" 
+          src="/blog.png" 
           alt="Logo"
           className="w-12 h-12"
         />
